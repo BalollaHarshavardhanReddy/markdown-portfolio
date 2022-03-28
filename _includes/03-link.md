@@ -1,1 +1,1 @@
-https://octodex.github.com/images/yaktocat.png
+[yactocat](https://octodex.github.com/total-eclipse-of-the-octocat/)
